@@ -56,7 +56,7 @@ The program continues running in a loop until you decide to exit.
 
 Below is a screenshot of a successful run on Windows:
 
-![Example Run](./{98880404-B81A-4871-B19C-7D9CDB09C628}.png)
+![Example Run](https://github.com/Daedu86/dicta/blob/main/Dicta.jpg)
 
 In this example, the user entered "Tell me more about it" and transcribed it correctly with 0.0% mismatch.
 
